@@ -1,0 +1,26 @@
+{
+    "disks": [
+        {
+            "parent": "A:\\",
+            "heartbeat": 0,
+            "disk_label": "disk-0"
+        },
+        {
+            "parent": "C:\\",
+            "heartbeat": 1,
+            "disk_label": "disk-1"
+        },
+        {
+            "parent": "Y:\\",
+            "heartbeat": 2,
+            "disk_label": "disk-2"
+        },
+        {
+            "parent": "Z:\\",
+            "heartbeat": 3,
+            "disk_label": "disk-3"
+        }
+    ],
+    "initialized_at": 1735793572,
+    "encryption_heartbeat": "38ee38c56e27ca2c6d573b7cdb4d8c86"
+}
